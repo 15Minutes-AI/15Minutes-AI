@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there! We’re 15Minutes  
+Want to grasp key insights from top books before anyone else? Meet 15Minutes, your ultimate tool for quick and effective learning!  
+This revolutionary Book Summary Platform makes discovering essential ideas and detailed analyses from over 5000 books easier than ever. Stop spending hours reading—start learning the most important concepts in just 15 minutes.
 
-<!--
-**15Minutes-AI/15Minutes-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Why you’ll love 15Minutes:
 
-Here are some ideas to get you started:
+Say goodbye to spending days on lengthy books
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instantly access thousands of concise summaries and analyses
+
+Listen to podcasts and audiobooks for learning on the go
+
+Get personalized recommendations to find books that suit your interests
+
+This tool is perfect for students, professionals, and lifelong learners who want to save time, absorb knowledge efficiently, and broaden their horizons faster.
+
+Ready to unlock your next great read?  
+Click here to try 15Minutes now and start your learning journey!  
+🔗 https://15minutes.ai
